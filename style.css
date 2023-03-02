@@ -1,0 +1,42 @@
+body {
+  background-color: burlywood;
+}
+section {
+  width: 100%;
+}
+h1 {
+  color: brown;
+}
+.time {
+  list-style-type: none;
+}
+.time-item {
+  float: left;
+  padding: 10px;
+  margin: 10px;
+  text-decoration: underline;
+  list-style: square;
+}
+ul li b {
+  color: brown;
+}
+.malzeme-list {
+  margin: 3% 30%;
+  align-items: center;
+  align-content: center;
+}
+.malzeme {
+  margin-top: 25%;
+  padding: 2px;
+  border: 1px solid brown;
+  border-radius: 10px;
+  background-color: brown;
+  color: white;
+}
+.tarif-item {
+  list-style: decimal;
+}
+.goodbye {
+  float: right;
+  margin-right: 30%;
+}
